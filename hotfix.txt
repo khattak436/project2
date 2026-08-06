@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modify master branch and also debugging 
+=======
+modify and debug master branch
+>>>>>>> hotfix
